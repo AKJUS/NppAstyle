@@ -27,6 +27,9 @@ Format code/source for [ c c++ cs[c#,csharp] java javascript objc[m,mm] ]
 [logo]:https://github.com/JetMeta/ZToolKit/blob/master/Avator/jz_l.png "JetZux"
 
 ## Change Log
+### [0.11.2.20] - 2025-05-02
+- +.update AStyleLib to 3.6.9
+
 ### [0.11.2.20] - 2025-01-07
 - +.update AStyleLib to 3.6.6
 
